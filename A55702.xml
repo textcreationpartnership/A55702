@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Present interest of Tangier</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55702</idno>
+            <idno type="STC">Wing P3248</idno>
+            <idno type="STC">ESTC R9104</idno>
+            <idno type="EEBO-CITATION">13741991</idno>
+            <idno type="OCLC">ocm 13741991</idno>
+            <idno type="VID">101664</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55702)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101664)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 847:46)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Present interest of Tangier</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tangier (Morocco) --  History.</term>
+               <term>Morocco --  History --  1516-1830.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:101664:1"/>
+            <head>THE Preſent Intereſt OF TANGIER.</head>
+            <p>
+               <hi>TAngier</hi> is a pleaſant City as any in the world, in a moſt wholeſome Air, pure and free from all Infection, ſcituate in a moſt rich and fruitful Soil, able to yield all things needful to the life of man. There is no plea<g ref="char:EOLhyphen"/>ſure or delight, but this Country, if open, would afford to the Inhabi<g ref="char:EOLhyphen"/>tants, without the aſſiſtance of Forein Nations. The Air is temperate, and cool'd with the annual Briſes in the Summer, called <hi>Eteſian</hi> Winds; and often purg'd from the Diſtempers, which otherwiſe might raign there, by the Eaſterly and Weſterly winds. By this means it happens that it is neither very hot in the Summer, nor exceſſive cold in the Winter, but temperate, and agreeable with the diſpoſition of our humane bodies. The <hi>Moors</hi> thereabouts live commonly to a great age: I have ſeen many amongſt them about Eighty and Ninety years of age, very luſty. And ſince <hi>Tangier</hi> belong'd to <hi>England,</hi> none can ſay that ever the Plague hath been in that Citie, or that there hath been any Infection to carry away the Inhabitants, proceeding from the Air or Countrie. I confeſs many have died in this place, but moſt through their own Follies, Debaucheries, and Luſt; which have deſtroyed here many of his Majeſties good Subjects. If we could beg ſuch a Wind from Almighty God, as to drive from thence theſe Infections, our <hi>Engliſh</hi> bodies would be very healthy, and <hi>Tangier</hi> would not be ſo odious to the Nation.</p>
+            <p>It was built by the <hi>Phoenicians,</hi> if <hi>Procopius</hi> may be believed: for he tells us of a Pillar near <hi>Tingi,</hi> where theſe words were engraven in the Phoenician Language: <hi>Nos fugimus à facie Joſuae filii Nun.</hi> They were then the greateſt Traders of the world; they choſe this place for that purpoſe, to enrich themſelves by that Art. Of all the Cities of the world, I know none better ſcituate for Command and Trade than this: It lies at the mouth and paſſage of all the <hi>Levant</hi>-Trade; no Ship can go in or out of the <hi>Streights,</hi> but <hi>Tangier</hi> muſt ſee it in the day; and in the night four or five Men of War cruiſing to and fro, ſome in, others out of the <hi>Mediterranean,</hi> may take all the Ships that ſail that way: none can eſcape, without a ſtrong Convoy, which would be too chargeable for the <hi>Dutch, French,</hi> and other Northern Merchants. If <hi>Argier</hi> were ſcituate where <hi>Tangier</hi> is now, all its Enemies muſt forbear Trading: and if <hi>Tan<g ref="char:EOLhyphen"/>gier</hi> were in the hands of the <hi>Moors,</hi> or of the <hi>French,</hi> or ſome other Prince ſtrong at Sea, our Nation were undone, and our Merchants muſt bid farewel to the <hi>Streights</hi> in time of War. It is an eaſie matter for the Prince of <hi>Tangier</hi> therefore to command our Northern world, and to give Laws to <hi>Europe</hi> and <hi>Africa.</hi> The ſcituation of <hi>Rome,</hi> of <hi>Carthage,</hi> of <hi>Conſtantinople,</hi> of <hi>London, Paris,</hi> and other Imperial Cities, is nothing near ſo advantageous for that purpoſe as <hi>Tangier,</hi> if all things be conſi<g ref="char:EOLhyphen"/>dered.</p>
+            <p>The Countrie and Soil is fruitful in Corn, Honey, Cattle, Beef, Sheep, Goats, Camels, Horſes, and Buffles. The Woods are full of Bees, and wild Beaſts that have excel<g ref="char:EOLhyphen"/>lent
+<pb n="2" facs="tcp:101664:2"/>Furrs. The Earth would bear good Wines of all ſorts: for there are the ſwee<g ref="char:EOLhyphen"/>teſt Grapes of the world. Here are all manner of Eaſtern Fruits, Pomgranats, Oran<g ref="char:EOLhyphen"/>ges, Melons, Lemons, Figs, <hi>&amp;c.</hi> So that if our <hi>Engliſh</hi> did huſband the ground about <hi>Tangier,</hi> there is nothing that we fetch from <hi>Spain, Italy, Greece,</hi> or <hi>France,</hi> but we might have it there. It is the neareſt Plantation that belongs to <hi>England,</hi> within a fortnight or three weeks ſailing from the <hi>Downes.</hi>
+            </p>
+            <p>So that if all things be conſidered, it ſeems no little wonder that <hi>Tangier</hi> hat not flouriſh'd ſince it is in the hands of ſuch a powerful Nation as the <hi>Engliſh.</hi> But our unhappineſs there, is not to be aſcribed to the place, the Air, or Country, but to ſe<g ref="char:EOLhyphen"/>veral other things which I ſhall here ſet down, not onely for the publick ſatisfaction, but that we may underſtand the true cauſes of the Peoples averſion for <hi>Tangier,</hi> and be better able to remove them for the future.</p>
+            <p>Firſt, I ſhall begin with Religion. It was never there truly encouraged, but in the ſhort Governments of the Earl of <hi>Tiveot</hi> and Colonel <hi>Norwood.</hi> We can never ex<g ref="char:EOLhyphen"/>pect a City will flouriſh, when all manner of Debaucheries, Profaneneſs, Irreligion, and Idolatry, ſhall have the liberty to appear without a check; when the Governours themſelves have been the Examples to encourage the contempt of Vertue and Piety; when either openly or privately they have made it their buſineſs to ruine the Prote<g ref="char:EOLhyphen"/>ſtant Intereſt, and to call thoſe perſons in queſtion for their Lives, who have been the greateſt ſupporters of it. Let profane men think what they will, there was never yet a Citie or a Nation that ever proſper'd ſince the beginning of the world, that ſligh<g ref="char:EOLhyphen"/>ted the Religion of the Countrie. The <hi>Romans</hi> Proſperitie is aſcribed by St. <hi>Auſtin</hi> to their ſincere profeſſion of their Idolatries. In <hi>Tangier</hi> too many have caſt off all reſpects due to the God that hath made them, and minde nothing but De<g ref="char:EOLhyphen"/>bauchery and Lewdneſs: others have hearkened to the ſollicitations of ſome Popiſh Prieſts, and make profeſſion of that Religion, that they might by the means of their Abſolutions, enjoy their Vices and filthineſs without remorſe of Conſcience. For the benefit of Trade, and the encouragement of Strangers, all ſorts of Religions ſhould be allowed; but it is againſt all policie, that the Engliſh Subjects and Officers that receive from the King their Livelihood, ſhould be ſuffered to change their Religions as often as their Garments, and wantonly to profeſs which they pleaſe. Not onely from hence, but from ſeveral other paſſages, Religion hath received great diſcouragements, to the open ſcandal of the Proteſtant Profeſſion, and the diſhonour of the Church of <hi>England</hi> in the eyes of the Nations round about.</p>
+            <p>The ſecond cauſe of <hi>Tangier</hi>'s unhappineſs is, that moſt of the perſons that have been ſent thither, have never intended to inhabit there, but have been needy, and greedy, and have onely deſign'd to live there a while to fill their Purſes, and then to return for <hi>England</hi> with their Gains. By this means the ſoberer Inhabiters of <hi>Tan<g ref="char:EOLhyphen"/>gier,</hi> from whoſe induſtry and good behaviour onely we can reaſonably expect Pro<g ref="char:EOLhyphen"/>ſperity, impoveriſh the Citie, and diſcourage the reſt. And many other inconvenien<g ref="char:EOLhyphen"/>cies proceed from hence, to his Majeſties prejudice and of the place. To remedy this inconveniencie, ſuch Laws ſhould be enacted as might encourage ſober men to live there, and diſcourage their departure upon ſuch unhandſom terms as they commonly leave the Gariſon.</p>
+            <p>The third cauſe is, the difference and variance between Traders and Souldiers, en<g ref="char:EOLhyphen"/>couraged too much by the Rulers covetouſneſs, and the Citizens poverty and wants; and the unreaſonableneſs of both, unwilling to comply with one another: For this diſcourageth all wealthy perſons from inhabiting there, becauſe they are not countenan<g ref="char:EOLhyphen"/>ced, nor have thoſe Liberties which it hath pleaſed his Majeſty to grant them. Some in a late Governours time, for frivolous accounts, have been called in queſtion for their Lives, condemned contrary to all Law and Reaſon, to gratifie his diſpleaſure, and others of the female Sex. Theſe, and ſuch like proceedings, ruine <hi>Tangier,</hi> and hinder it from that Proſperity and Wealth which it might eaſily attain to.</p>
+            <pb n="3" facs="tcp:101664:2"/>
+            <p>Fourthly, <hi>Tangier</hi>'s ill fate, ſince it is in the <hi>Engliſh</hi> hands, is due to the ill Reports ſpread abroad of the place by the vulgar ſort, encouraged by the many perſons dead there through their own miſcarriages, and the ill uſages of Popiſh Officers, who to my knowledge have valued more ten or twenty ſhillings at Pay-day, than the lives of their Souldiers; and have not treated them like men, much leſs like Chriſtians. I have ſa<g ref="char:EOLhyphen"/>ved the lives of a great many of my Neighbours, when they have wanted neceſſaries: for which good deed I have been reproved by ſome <hi>Iriſh</hi> Officers, who expected their Pay between their death and the following muſter. The meaneſt Souldier muſt be encouraged, and not ſuffered to want when fallen into a ſickneſs, though moſt times through his own intemperance. I dare affirm, and will offer to prove, that the unmer<g ref="char:EOLhyphen"/>cifulneſs of the Officers, and the neglect of Phyſicians and Apothecaries, who though paid for that purpoſe by his Majeſty, have killed the three parts of thoſe that are dead in <hi>Tangier.</hi> I have ſometimes buried three or four in a day, dead for want of that which his Majeſty hath provided for them in caſe of ſickneſs.</p>
+            <p>Fifthly, Another cauſe of <hi>Tangiers</hi> unhappineſs, is, the ſtrange Victories of the <hi>Moors,</hi> and the ſad Maſſacre of the <hi>Engliſh,</hi> when they have gone out againſt them in the open field; with the vaſt opinion of valour they have gained amongſt us, through our unskilfulneſs, or rather unadviſedneſs, and their ſucceſſes. The Defeat of <hi>Fines</hi>'s Party on the firſt third of <hi>May,</hi> and of my Lord <hi>Tiveot</hi> and his Company on the ſecond, have ſtruck a great terrour into our <hi>Engliſh</hi> hearts, and cauſed us to look up<g ref="char:EOLhyphen"/>on a <hi>Moor</hi> as an excellent Souldier: but truely we are miſtaken: I know their va<g ref="char:EOLhyphen"/>lour, and the ſtrength of their Country, more than any that hath yet been in <hi>Tan<g ref="char:EOLhyphen"/>gier;</hi> for when I have been amongſt the <hi>Moors,</hi> I have inquired many things con<g ref="char:EOLhyphen"/>cerning their Order, Militia, Numbers, <hi>&amp;c.</hi> which I perceive we are ignorant of.</p>
+            <p>The greateſt ſtrength of the <hi>Moors</hi> Army, is in their Horſe and Launce Foot: they have, Armed partly with Guns, and partly with Launces; but they have no great Guns, neither do they know how to manage them, nor carry them into the field. They fight in diſorder, without Ranks or Files, the Horſe by themſelves, and the Foot by themſelves. In ſet Battels, which have ſeldome been ſeen in this Country, the Horſe make up the Van and the Rear, and the Foot the main Body; ſo that ma<g ref="char:EOLhyphen"/>ny times the Foot have nothing for them to do, but to deſtroy the Defeated Enemy, when the Horſe hath routed and terrified them. But they are for Ambuſhes and Surpriſes, becauſe their Countrey is very proper for that purpoſe. <hi>Muley Arxid</hi> overcame <hi>Gayland</hi> in this manner; as he had before ruined <hi>Bembouka.</hi> In this Coun<g ref="char:EOLhyphen"/>try they have but little or no ſtanding Army; all is made up of their ſeveral Diviſions, or Companies of <hi>Arabs</hi> ſcattered about, who know their diſtinct Monkadems or Colo<g ref="char:EOLhyphen"/>nels under whom they are to fight, and to whom they are to repair in all Alarms. But they cannot ſubſiſt long in one place, becauſe they have no Purveyours, nor other Proviſions but what every Man brings with them, unleſs it be ſome ſmall quantity which the place where they lie may afford them in caſe of neceſſity. They fight in the ſame manner as the <hi>Roman</hi> Authors have repreſented the Antient <hi>Mauri;</hi> neither are they better ſkill'd in martialling an Army, or fighting. Let any man that knows the Art of of War compare them with us, and judge whether we may not be able to encounter them. If they have had ſucceſſes againſt us, it is through our weak<g ref="char:EOLhyphen"/>neſs and unpreparedneſs. We have marched againſt them onely with Muſkets and Swords, and they have come againſt us with Horſe and Launce: before our Men had time to diſcharge their Muſkets, the Horſe and the Launce had diſordered our Men, broken their Ranks, and cut them all to pieces on a ſudden. Had we a wall of Pikes to oppoſe againſt them, lined with Muſkets, all the Horſe of <hi>Barbary</hi> could do us no miſchief, and we might ſafely march through the Country. An example we have lately had of a worthy Commander, Sir <hi>Palmes Fairburne,</hi> who made his Retreat with his Party without any conſiderable loſs, onely with the aſſiſtance of a ſtand of Pikes, which kept off the <hi>Moors</hi> Horſe, whilſt his Foot fired upon them.
+<pb n="4" facs="tcp:101664:3" rendition="simple:additions"/>Their Foot ſignifie nothing, their Horſe have no Guns, or very few, onely Piſtols. For their Infantry, they are unſkilful in the managing of a Gun, neither have they the courage to ſtand a ſhot. The <hi>Portugueſes</hi> ſeldome encounter'd with the <hi>Moors,</hi> but they had the Victory; therefore we muſt aſcribe all our loſſes to the unadvi<g ref="char:EOLhyphen"/>ſedneſs of our Commanders, and the diſorder of our Men, and their want of thoſe defenſive Weapons which were able to keep off the fury of the <hi>Moors</hi> Horſe. I dare ingage with five or ſix thouſand Engliſh, againſt above twenty thouſand <hi>Moors,</hi> if the Engliſh may have thoſe Arms and Proviſions that become them. Such is the weakneſs of this Country, that they can ſcare bring together, under one Com<g ref="char:EOLhyphen"/>mander, twenty thouſand men; for they are all divided under ſeveral head of Fa<g ref="char:EOLhyphen"/>milies, ſince the death of the laſt Emperor of <hi>Morocco,</hi> and will not conſent to ſet up a Monarch again. He therefore that hath the longeſt Sword gets the Victory, and the chief command. In this caſe, it is an eaſie matter for us to make an inte<g ref="char:EOLhyphen"/>reſt for our ſelves, by encouraging ſome party, and imitating the <hi>Romans</hi> policy, who never ventured againſt a Nation or People, but with the aſſiſtance of ſome of their own Souldiers. But it is our unhappineſs, that we know not what is done amongſt the <hi>Moors;</hi> we live in <hi>Tangier</hi> within the Walls and Lines, and unleſs we ſend a Flag of Truce for ſome pittiful buſineſs, we ſcarce ſee the face of a <hi>Moor</hi> in a years time, but at a diſtance, unleſs ſome of them come to bring Proviſions to us. But we have never ſent any to underſtand their Country, to ſearch into their ſtrength and dependancies, to examine their Intereſt, their inclinations, and thoſe other things which we might improve to the advantage of <hi>Tangier.</hi> If any be ſent for that purpoſe, he muſt not be a Noble-man; for they care not to ſee any greater ſtate amongſt them, than they obſerve. Their greateſt Princes live as King <hi>Evander</hi> in <hi>Virgil.</hi> As they have a great reſpect for Clergy-men, I think ſuch a one, if in<g ref="char:EOLhyphen"/>genious, and acquainted with the Language of the Countrey, might do much good, either to perſwade them to a Trade and Peace with us, or to underſtand thoſe par<g ref="char:EOLhyphen"/>ticulars, which might cauſe us to ſecure the Intereſt of <hi>Tangier:</hi> that may be done either by Peace or War. But let us be well aſſured of this, that whilſt we keep one<g ref="char:EOLhyphen"/>ly the Walls of <hi>Tangier,</hi> we ſhall onely ſpend Money; it will never bring any pro<g ref="char:EOLhyphen"/>fit to our King, unleſs the Countrey be opened for us; which may be eaſily done, with little or no expence: and now, inſtead of ſeveral thouſand pounds which His Majeſty ſpends in the maintaining of <hi>Tangier,</hi> it ſhall not onely maintain it ſelf, but yield a conſiderable Revenue to the Crown of <hi>England.</hi> For the future it may be rendered a dreadful City to the <hi>Moors, Spaniards, Turks,</hi> and <hi>French,</hi> and keep in the incurſions of thoſe of <hi>Argier.</hi> If <hi>Tangier</hi> were in that condition, Men would deſire to go over and inhabit there, for the conveniency of Trade; ſome neighbour Factories would ſettle there, and we ſhould vent all the Commodities of Wool which lye upon our hands, amongſt the <hi>Africans;</hi> for now the <hi>Dutch</hi> and <hi>French</hi> furniſh them. We ſhould ſecure our Merchants from the Pyrates of <hi>Argier,</hi> for then they would not dare to break with us upon every ſlight occaſion. When the <hi>Van<g ref="char:EOLhyphen"/>dals</hi> Conquered <hi>Africa,</hi> it was ſtronger than it is now, and they had not the advan<g ref="char:EOLhyphen"/>tage of Guns as we have, yet they found but little difficulty to ſubdue the Inhabitants, who were then aſſiſted by the <hi>Romans</hi> and <hi>Grecians.</hi>
+            </p>
+            <p>I could offer many things for the good of <hi>Tangier,</hi> from my knowledge of the Country ſince the beginning of the world; but I know not how acceptable theſe things will be. I am certain, if a right courſe were taken, the Mole, which hath been long building, might be ſpeedily finiſh'd; <hi>Tangier</hi> might be made the moſt proſperous and hopeful City that belongs to <hi>England;</hi> and it ſhould repay to His Majeſty all that hath been expended in the keeping of it ſince it was ours. If I be required, I ſhall be willing, not onely to give a further Account, but alſo to be inſtrumental in the promoting of the good of <hi>Tangier.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
